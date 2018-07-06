@@ -1,6 +1,6 @@
 # JsonBindingUsingJackson
 
-* Maven + Json + Jackson + Binding
+* Maven + Json-Binding + Jackson
 * Helpful in Data binding when using Rest end points
 * By using databind.JsonMappingException and databind.ObjectMapper classes;
 ```java
