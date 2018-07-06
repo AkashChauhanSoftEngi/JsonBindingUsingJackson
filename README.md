@@ -2,6 +2,10 @@
 
 * Maven + Json + Jackson + Binding
 * Helpful in Data binding when using Rest end points
+* By using databind.JsonMappingException and databind.ObjectMapper classes;
+```java
+  ObjectMapper.writeValueAsString(POJO) and ObjectMapper.readValue(json, POJO.class);
+```
 
 > **###1. Technologies**
 * Maven 3.1
