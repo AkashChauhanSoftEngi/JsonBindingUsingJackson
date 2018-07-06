@@ -9,5 +9,5 @@
 * jackson-databind 2.0.0
 
 > **###2. To Run this project locally**
-* $ git clone https://github.com/AkashChauhanSoftEngi/MvcJsonBindingUsingJackson
+* $ git clone https://github.com/AkashChauhanSoftEngi/MavenJsonBindingUsingJackson
 * $ mvn tomcat7:run
